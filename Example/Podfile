@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'KOBaseView_Example' do
+  pod 'KOBaseView', :path => '../'
+
+  target 'KOBaseView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,16 @@
+PODS:
+  - KOBaseView (0.1.0)
+
+DEPENDENCIES:
+  - KOBaseView (from `../`)
+
+EXTERNAL SOURCES:
+  KOBaseView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KOBaseView: e8df2b4ad75936bab6796e538b782b729cabb2fc
+
+PODFILE CHECKSUM: 5a938340b85f9890b1502beada3cfc5704ace2b6
+
+COCOAPODS: 1.10.1
